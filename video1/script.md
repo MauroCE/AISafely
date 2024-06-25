@@ -29,3 +29,5 @@ This paper is mostly an existence proof, and since it focuses on a single
 example it is not wise to draw conclusions from it. Nonetheless, 
 it is a good reminder that prompts alone are not sufficient for guaranteeing aligned
 actions.
+
+Click follow, for more AI Safety content.
